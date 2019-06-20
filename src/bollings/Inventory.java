@@ -2,7 +2,7 @@
 * Name: Stuart Bollinger
 * Assignment: 1
 * Program: Computer Programming
-*
+* Edited this line on github
 * Inventory Class (Assignment 1)
 */
 package bollings;
